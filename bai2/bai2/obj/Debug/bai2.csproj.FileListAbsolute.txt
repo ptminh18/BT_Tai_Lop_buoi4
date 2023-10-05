@@ -1,0 +1,10 @@
+C:\Users\minhf\source\repos\bai2\bai2\bin\Debug\bai2.exe.config
+C:\Users\minhf\source\repos\bai2\bai2\bin\Debug\bai2.exe
+C:\Users\minhf\source\repos\bai2\bai2\bin\Debug\bai2.pdb
+C:\Users\minhf\source\repos\bai2\bai2\obj\Debug\bai2.csprojAssemblyReference.cache
+C:\Users\minhf\source\repos\bai2\bai2\obj\Debug\bai2.Form1.resources
+C:\Users\minhf\source\repos\bai2\bai2\obj\Debug\bai2.Properties.Resources.resources
+C:\Users\minhf\source\repos\bai2\bai2\obj\Debug\bai2.csproj.GenerateResource.cache
+C:\Users\minhf\source\repos\bai2\bai2\obj\Debug\bai2.csproj.CoreCompileInputs.cache
+C:\Users\minhf\source\repos\bai2\bai2\obj\Debug\bai2.exe
+C:\Users\minhf\source\repos\bai2\bai2\obj\Debug\bai2.pdb
