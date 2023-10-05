@@ -1,0 +1,9 @@
+c:\users\administrator\documents\visual studio 2013\Projects\PhanTheMinh_dubaothoitiet\PhanTheMinh_dubaothoitiet\bin\Debug\PhanTheMinh_dubaothoitiet.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\PhanTheMinh_dubaothoitiet\PhanTheMinh_dubaothoitiet\bin\Debug\PhanTheMinh_dubaothoitiet.exe
+c:\users\administrator\documents\visual studio 2013\Projects\PhanTheMinh_dubaothoitiet\PhanTheMinh_dubaothoitiet\bin\Debug\PhanTheMinh_dubaothoitiet.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\PhanTheMinh_dubaothoitiet\PhanTheMinh_dubaothoitiet\obj\Debug\PhanTheMinh_dubaothoitiet.Form1.resources
+c:\users\administrator\documents\visual studio 2013\Projects\PhanTheMinh_dubaothoitiet\PhanTheMinh_dubaothoitiet\obj\Debug\PhanTheMinh_dubaothoitiet.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2013\Projects\PhanTheMinh_dubaothoitiet\PhanTheMinh_dubaothoitiet\obj\Debug\PhanTheMinh_dubaothoitiet.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2013\Projects\PhanTheMinh_dubaothoitiet\PhanTheMinh_dubaothoitiet\obj\Debug\PhanTheMinh_dubaothoitiet.exe
+c:\users\administrator\documents\visual studio 2013\Projects\PhanTheMinh_dubaothoitiet\PhanTheMinh_dubaothoitiet\obj\Debug\PhanTheMinh_dubaothoitiet.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\PhanTheMinh_dubaothoitiet\PhanTheMinh_dubaothoitiet\obj\Debug\PhanTheMinh_dubaothoitiet.csprojResolveAssemblyReference.cache
